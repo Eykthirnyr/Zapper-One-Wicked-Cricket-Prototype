@@ -12,7 +12,7 @@ This is how to trigger the end of a level if glitched or if eggs are missing :
 <img width="1119" height="834" alt="Main_Title" src="https://github.com/user-attachments/assets/78314245-a3d5-4c56-a973-61436dd1baf3" />
 
 
-# PS2 Camera Manipulation — Technical Findings
+# Camera Manipulation — Technical Findings
 
 ---
 
