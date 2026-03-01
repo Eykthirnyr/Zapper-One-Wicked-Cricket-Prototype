@@ -183,4 +183,3 @@ Call chain identified inside UpdateScene / bdSetVi... functions at
 These three floats are the true **Stage 1 camera angle source** ---
 modifying them produces clean, stable camera rotation through the game's
 own matrix pipeline with no side effects.
-
